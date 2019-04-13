@@ -3,6 +3,9 @@ title: "About"
 layout: about
 ---
 
-HELLO.
+### Why Energy Risk?
+
+This blog is my personal archive for observations, code, and data analysis in the broad field of Energy Risk
+
 
 -Jeric M.
