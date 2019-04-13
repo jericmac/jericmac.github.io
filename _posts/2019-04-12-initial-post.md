@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "First Post"
 sub_title: "Subtitle"
 categories:
@@ -11,3 +10,4 @@ tags:
 
 
 TEST POST
+last_modified_at: 2017-03-09T10:55:59-05:00
