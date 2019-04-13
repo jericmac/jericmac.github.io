@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "First Post"
 sub_title: "Subtitle"
 categories:
