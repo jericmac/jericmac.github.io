@@ -19,10 +19,9 @@ email:
 description: A collection of observations.
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "https://jericmac.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-author:
-  name:
-  twitter:
-  picture:
+author: 
+  name: Jeric
+  picture: "/assets/images/kkashi.PNG"
 twitter_username:
 github_username:
 logo: "/assets/images/kkashi.PNG"# path of site logo, e.g. "/assets/images/logo.png"
