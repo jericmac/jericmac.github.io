@@ -19,6 +19,8 @@ This function uses Yahoo Finance to return a pandas dataframe containing prices/
 
 
 ```python
+import fix_yahoo_finance as yf
+
 def tsYahooFinance(stock_list, begtimeSTR,endtimeSTR,prefix='Adj Close'):
     # load stock/index prices
     records = yf.download(stock, as_panel=False, start=begtime_str, end=endtime_str)
