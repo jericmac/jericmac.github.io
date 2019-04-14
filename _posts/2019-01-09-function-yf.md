@@ -7,7 +7,7 @@ tags:
   - Time Series
   - ASX
   - Data
-image: /images/post2/post-01-09-2019-dataframe.png
+image: /images/post2/post-01-09-2019-dataframe.PNG
 
 ---
 
