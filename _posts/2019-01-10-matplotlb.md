@@ -10,7 +10,7 @@ tags:
 image: 
 
 ---
-![png](/assets/images/post3/woodsidechart.png)
+![png](/assets/images/post3/woodside2.PNG)
 
 Matplotlib general settings
 
