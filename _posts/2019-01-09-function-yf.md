@@ -7,10 +7,10 @@ tags:
   - Time Series
   - ASX
   - Data
-image: /assets/images/post2/post-01-09-2019-dataframe.PNG
+image: 
 
 ---
-
+![png](/assets/images/post2/post-01-09-2019-dataframe.PNG)
 This function uses Yahoo Finance to return a pandas dataframe containing prices/volumes for a list of symbols.
 
 
