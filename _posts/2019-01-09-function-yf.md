@@ -7,12 +7,11 @@ tags:
   - Time Series
   - ASX
   - Data
+image: /images/post2/post-01-09-2019-dataframe.png
 
 ---
 
-### Function Description
-
-This function returns a pandas dataframe
+This function uses Yahoo Finance to return a pandas dataframe containing prices/volumes for a list of symbols.
 
 
 ```python
