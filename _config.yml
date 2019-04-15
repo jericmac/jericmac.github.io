@@ -16,7 +16,7 @@
 lang: en-US
 title: Energy Risk Blog
 email:  
-description: A collection of observations.
+description: Observations, Ideas, Analysis, Code, Algorithms and more.
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "https://jericmac.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author: 
