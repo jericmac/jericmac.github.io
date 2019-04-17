@@ -1,5 +1,5 @@
 ---
-title: "Pandas: Best Practicees Guide"
+title: "Pandas: Best Practices Guide"
 sub_title: "A useful function for electricity markets time series data that combines two dataframe columns into one index"
 categories:
   - Python
