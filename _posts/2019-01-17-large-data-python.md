@@ -13,7 +13,7 @@ image:
 
 ### Some Pointers for Handling Large Datasets in Python
 	
-	1. Use Categorical DataTypes
+1. Use Categorical DataTypes
 
 	Selectively assign a category datatype. This saves memory when working with Pandas Series and DataFrames.
 
@@ -23,8 +23,7 @@ image:
 	print (df.dtypes)
 	df.memory_usage(index=False, deep=True)
 	```
-
-	2. Use the "chunksize" parameters in Pandas when reading csv files.
+2. Use the "chunksize" parameters in Pandas when reading csv files.
 
 	```python
 	chunks_df = pd.read_csv(datasource, chunksize=1000000)
@@ -39,16 +38,14 @@ image:
 	#concat the list into dataframe 
 	df_concat = pd.concat(chunk_list)
 	```
-
-	3. Filter-out columns
+3. Filter-out columns
 
 	Remove all unnecessary columns when preparing a dataframe for processing.
 
 	```python
 	df = df['a','b']
 	```
-	
-	4. Free-up some memory by changing column types (i.e. int64 to int32)
+4. Free-up some memory by changing column types (i.e. int64 to int32)
 	
 	Use .astype() to convert your column types
 
