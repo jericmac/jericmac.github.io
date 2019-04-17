@@ -12,6 +12,7 @@ image:
 
 
 ### Some Pointers for Handling Large Datasets in Python
+	
 	1. Use Categorical DataTypes
 
 	Selectively assign a category datatype. This saves memory when working with Pandas Series and DataFrames.
