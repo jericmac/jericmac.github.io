@@ -18,6 +18,11 @@ This chart shows the relationship between the USEP price and the Continuous Futu
 * Will an SGX product with a monthly frequency be forthcoming?
 * Potentially Compare with the ACCC Netback Price Series for a more holistic view of the USEP.
 
+A 5-Year view of the USEP historical Prices vs 180 Cst Fuel Oil Shows that the 180Cst futures price leads the NEM USEP:
+
+![png](/assets/images/post-2019-04-01/USEPHistorical.PNG)
+
+
 
 ### Code
 
